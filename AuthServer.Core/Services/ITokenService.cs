@@ -1,4 +1,5 @@
-﻿using AuthServer.Core.Dtos;
+﻿using AuthServer.Core.Configuration;
+using AuthServer.Core.Dtos;
 using AuthServer.Core.Models;
 using System;
 using System.Collections.Generic;
@@ -11,6 +12,6 @@ namespace AuthServer.Core.Services
     public interface ITokenService
     {
         TokenDto CreateToken(UserApp userapp);
-        ClientTokenDto CreateTokenByClient(ClientTokenDto client);
+        ClientTokenDto CreateTokenByClient(Client client);
     }
 }

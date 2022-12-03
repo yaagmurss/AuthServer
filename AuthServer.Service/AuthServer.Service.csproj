@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="IdentityServer3" Version="2.6.3" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="5.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AuthServer.Data\AuthServer.Data.csproj" />
   </ItemGroup>
 

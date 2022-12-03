@@ -36,3 +36,4 @@ C:\Users\200741\source\repos\AuthServer\MiniApp2.Api\obj\Debug\net5.0\MiniApp2.A
 C:\Users\200741\source\repos\AuthServer\MiniApp2.Api\obj\Debug\net5.0\ref\MiniApp2.Api.dll
 C:\Users\200741\source\repos\AuthServer\MiniApp2.Api\bin\Debug\net5.0\SharedLibrary.dll
 C:\Users\200741\source\repos\AuthServer\MiniApp2.Api\bin\Debug\net5.0\SharedLibrary.pdb
+C:\Users\200741\source\repos\AuthServer\MiniApp2.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll

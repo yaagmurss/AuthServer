@@ -4,9 +4,11 @@ using System.Threading.Tasks;
 
 namespace AuthServer.Core.Services
 {
-    public interface IUserServices
+    public interface IUserService
     {
+
         Task<ResponseDto<UserAppDto>> CreateUserAsync(CreateUserDto createUserDto);
+
         Task<ResponseDto<UserAppDto>> GetUserByNameAsync(string userName);
     }
 }
