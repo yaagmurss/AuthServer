@@ -43,7 +43,7 @@ namespace AuthServer.Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Produts");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("AuthServer.Core.Models.UserApp", b =>
