@@ -1,4 +1,5 @@
 ﻿using AuthServer.Core.UnitOfWork;
+using AuthServer.Data.Configurations;
 using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 

@@ -7,17 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthServer.Api", "AuthServe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthServer.Core", "AuthServer.Core\AuthServer.Core.csproj", "{FAEA8BCD-1FFD-4A5B-86EB-D5C9CB91360F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Data", "AuthServer.Data\AuthServer.Data.csproj", "{90F2D4A6-04D5-4DD6-A428-EDC14EF685EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthServer.Data", "AuthServer.Data\AuthServer.Data.csproj", "{90F2D4A6-04D5-4DD6-A428-EDC14EF685EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthServer.Service", "AuthServer.Service\AuthServer.Service.csproj", "{0577C70E-96A8-48EB-AF24-06F850F703A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthServer.Service", "AuthServer.Service\AuthServer.Service.csproj", "{0577C70E-96A8-48EB-AF24-06F850F703A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp1.Api", "MiniApp1.Api\MiniApp1.Api.csproj", "{5F56DA5C-E7A0-4882-8E5B-B4AAD74BC87A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniApp1.Api", "MiniApp1.Api\MiniApp1.Api.csproj", "{5F56DA5C-E7A0-4882-8E5B-B4AAD74BC87A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp2.Api", "MiniApp2.Api\MiniApp2.Api.csproj", "{08278F79-8CDE-486E-9169-BD229C53FE4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniApp2.Api", "MiniApp2.Api\MiniApp2.Api.csproj", "{08278F79-8CDE-486E-9169-BD229C53FE4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniApp3.Api", "MiniApp3.Api\MiniApp3.Api.csproj", "{2F202D6C-254C-4453-B8EF-45F5F86D2DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiniApp3.Api", "MiniApp3.Api\MiniApp3.Api.csproj", "{2F202D6C-254C-4453-B8EF-45F5F86D2DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{7DCCDA5D-C63B-47D5-93A9-21C980F82819}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedLibrary", "SharedLibrary\SharedLibrary.csproj", "{7DCCDA5D-C63B-47D5-93A9-21C980F82819}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

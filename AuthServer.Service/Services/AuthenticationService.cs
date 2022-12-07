@@ -14,7 +14,7 @@ using AuthServer.Core.Repository;
 using AuthServer.Core.Services;
 using AuthServer.Core.UnitOfWork;
 
-namespace UdemyAuthServer.Service.Services
+namespace AuthServer.Service.Services
 {
     public class AuthenticationService : IAuthenticationService
     {
